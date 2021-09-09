@@ -20,7 +20,7 @@ Git - Использую всегда.
 
 ― Библиотеки Bootstrap / Jquery
 
-― ШаблонизаторыPug / Nunjucks
+― Шаблонизаторы Pug
 
 ― Css препроцессора Sass / Less
 
